@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460285300044",
+    "project_id": "authentication-597d1",
+    "storage_bucket": "authentication-597d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460285300044:android:a027bdc0cef983123413e9",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kN6YlWZRpslYjjlchoKpIa365qCPtf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
